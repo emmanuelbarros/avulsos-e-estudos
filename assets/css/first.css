@@ -1,0 +1,19 @@
+.biSizeC{
+    height: auto;
+    max-width: 100%;
+    background-image: url("/assets/images/rini.png") ;
+    background-size: 100%;
+    border: 2px solid darkgray;
+    color: #000; text-shadow: 1px 1px 0 #fff;
+}
+.button {
+    background-color: #030303; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
